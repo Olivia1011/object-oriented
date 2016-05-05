@@ -23,7 +23,7 @@ int main(int argc, char* argv[])
 	Calculation CAL;
 	//Calculation RES;
 	
-	/*character = argv[1];
+	character = argv[1];
 	
 	if(character == "-a")
 	{
@@ -37,7 +37,7 @@ int main(int argc, char* argv[])
 	
 	 ;
 	CAL.Separate(INPUT.ToStringQueue (character));
-	//RES.CoutResult(result);
-	//OUTPUT.print(que_character);
+	RES.CoutResult(result);
+	OUTPUT.print(que_character);
 	return 0;
 }
